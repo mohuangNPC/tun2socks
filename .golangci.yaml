@@ -18,4 +18,4 @@ linters-settings:
     sections:
       - standard
       - default
-      - prefix(github.com/xjasonlyu/tun2socks)
+      - prefix(github.com/mohuangNPC/tun2socks)
